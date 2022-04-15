@@ -10,7 +10,7 @@ Step-1: Redirect to the folder ` /client`
 Step-2: To install dependencies: npm install
 Step-3:  To run: npm start
 
-Output:
+**Output:**
 ![Capture1](https://user-images.githubusercontent.com/67535751/163583929-8f07de3b-c878-4e30-806e-4a11a5ba52ad.PNG)
 ![Capture2](https://user-images.githubusercontent.com/67535751/163583936-d8292212-5559-41fa-bd8d-14a6ef2c09b5.PNG)
 ![Capture3](https://user-images.githubusercontent.com/67535751/163583940-484cc3cb-6269-470a-acba-39012eed4342.PNG)
